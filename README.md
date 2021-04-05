@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<!--
-**vcnt1/vcnt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Bem vindo !
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼 Tecnologias: <strong>Flutter.</strong> <strong>Ruby on Rails.</strong> <strong>PostgreSql.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Design: <strong>Figma.</strong> <strong>Adobe Photoshop.</strong> <strong>Adobe Illustrator.</strong>
+</p>
+
+<p align="left">
+  💌 Contato via Linkedin ou email: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicente-ferreira/" /></a>
+</p>  
