@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💼 Tecnologias: <strong>Flutter.</strong> <strong>Ruby on Rails.</strong> <strong>PostgreSql.
+  💼 Tecnologias: <strong>Flutter.</strong> <strong>Ruby on Rails.</strong> <strong>PostgreSql.</strong>
 </p>
 
 <p align="left">
