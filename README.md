@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Contato via Linkedin ou email: ⤵️
+  💌 Conecta lá no Linkedin: ⤵️
 </p>
 
 <p align="left">
